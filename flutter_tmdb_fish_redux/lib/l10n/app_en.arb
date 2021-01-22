@@ -1,0 +1,10 @@
+{
+ "appTitle": "The Movie DB",
+  "@appTitle": {
+    "description": "App Title"
+  },
+  "helloBrand": "The Movie DB",
+  "@helloBrand": {
+    "description": "brand"
+  }
+}
